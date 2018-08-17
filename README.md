@@ -1,0 +1,2 @@
+# Automation-script-for-updating-resume-at-naukri.com
+This is python based automation script using pywinauto ,selenium, os and minor libraries, this script not uses any ui it is fully headless and will automatically upload resume at naukri.com and also take snap ones uploaded,  Only ones need to create  a folder in desktop and named it ResumeAutomation and in folder make one subfolder by name Snap which used by script to save snapshot to notify updation.
